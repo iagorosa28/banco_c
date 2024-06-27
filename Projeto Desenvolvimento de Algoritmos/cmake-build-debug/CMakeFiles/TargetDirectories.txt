@@ -1,0 +1,3 @@
+C:/Users/iago2/Documents/Projeto Desenvolvimento de Algoritmos/cmake-build-debug/CMakeFiles/Projeto_Desenvolvimento_de_Algaritmos.dir
+C:/Users/iago2/Documents/Projeto Desenvolvimento de Algoritmos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/iago2/Documents/Projeto Desenvolvimento de Algoritmos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
