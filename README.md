@@ -12,7 +12,7 @@
 
 🔹[Funcionalidade](#mag_right-funcionalidade)
 
-🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
+🔹[Desenvolvedor](#busts_in_silhouette-desenvolvedor)
 
 ## :pencil: Descrição do Projeto
 O objetivo deste projeto era desenvolver um sistema bancário simples em C para aplicar o que aprendemos na disciplina de Desenvolvimento de Algoritmos ao longo do semestre.
